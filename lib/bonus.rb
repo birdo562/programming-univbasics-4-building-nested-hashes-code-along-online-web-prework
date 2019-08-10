@@ -17,6 +17,6 @@ epic_tragedy = {
           {name: "Steven", age: "30", attitude: "confused"},
           {name: "Nurse", age: "44", attitude: "worried"}
       ]
-   } epic_tragedy[:Montague][:hero][:status]="dead"
+   } bonus[:Montague][:hero][:status]="dead"
 }
 end
